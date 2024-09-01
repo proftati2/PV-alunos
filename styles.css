@@ -1,5 +1,5 @@
 body {
-    color: rgb(5, 65, 246);
+    color: rgb(237, 11, 154);
     background: black;
     margin: 0px;
     font-family: "Caveat";
@@ -15,8 +15,13 @@ header{
     color: rgb(238, 7, 157);
 }
 
+.imagem img{
+    height: 300px;
+}
+
 .chamada{
     background: white;
+    color: black;
     padding-bottom: 80px;
     padding-top: 50px;
     display: flex;
@@ -29,6 +34,7 @@ header{
 
 h1{
     font-size: 50px;
+    color:rgb(238, 7, 157);
 }
 
 p{
